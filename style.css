@@ -105,7 +105,7 @@ img{
 #contacts{
     width: 100%;
     background-color: var(--lighest-color);
-    margin-top: 20px;
+    padding: 2px;
     text-align: center;
 }
 
